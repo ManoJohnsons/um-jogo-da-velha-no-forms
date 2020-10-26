@@ -1,0 +1,20 @@
+C:\Users\JohnB\OneDrive\Área de Trabalho\CeXarpe\Jogo Da Velha\Jogo Da Velha\bin\Debug\Jogo Da Velha.exe.config
+C:\Users\JohnB\OneDrive\Área de Trabalho\CeXarpe\Jogo Da Velha\Jogo Da Velha\bin\Debug\Jogo Da Velha.exe
+C:\Users\JohnB\OneDrive\Área de Trabalho\CeXarpe\Jogo Da Velha\Jogo Da Velha\bin\Debug\Jogo Da Velha.pdb
+C:\Users\JohnB\OneDrive\Área de Trabalho\CeXarpe\Jogo Da Velha\Jogo Da Velha\obj\Debug\Jogo Da Velha.csprojAssemblyReference.cache
+C:\Users\JohnB\OneDrive\Área de Trabalho\CeXarpe\Jogo Da Velha\Jogo Da Velha\obj\Debug\Jogo_Da_Velha.Form1.resources
+C:\Users\JohnB\OneDrive\Área de Trabalho\CeXarpe\Jogo Da Velha\Jogo Da Velha\obj\Debug\Jogo_Da_Velha.Properties.Resources.resources
+C:\Users\JohnB\OneDrive\Área de Trabalho\CeXarpe\Jogo Da Velha\Jogo Da Velha\obj\Debug\Jogo Da Velha.csproj.GenerateResource.cache
+C:\Users\JohnB\OneDrive\Área de Trabalho\CeXarpe\Jogo Da Velha\Jogo Da Velha\obj\Debug\Jogo Da Velha.csproj.CoreCompileInputs.cache
+C:\Users\JohnB\OneDrive\Área de Trabalho\CeXarpe\Jogo Da Velha\Jogo Da Velha\obj\Debug\Jogo Da Velha.exe
+C:\Users\JohnB\OneDrive\Área de Trabalho\CeXarpe\Jogo Da Velha\Jogo Da Velha\obj\Debug\Jogo Da Velha.pdb
+C:\Users\JohnB\OneDrive\Área de Trabalho\ETEC JRM\POO\Jogo Da Velha\Jogo Da Velha\bin\Debug\Jogo Da Velha.exe.config
+C:\Users\JohnB\OneDrive\Área de Trabalho\ETEC JRM\POO\Jogo Da Velha\Jogo Da Velha\bin\Debug\Jogo Da Velha.exe
+C:\Users\JohnB\OneDrive\Área de Trabalho\ETEC JRM\POO\Jogo Da Velha\Jogo Da Velha\bin\Debug\Jogo Da Velha.pdb
+C:\Users\JohnB\OneDrive\Área de Trabalho\ETEC JRM\POO\Jogo Da Velha\Jogo Da Velha\obj\Debug\Jogo Da Velha.csprojAssemblyReference.cache
+C:\Users\JohnB\OneDrive\Área de Trabalho\ETEC JRM\POO\Jogo Da Velha\Jogo Da Velha\obj\Debug\Jogo_Da_Velha.Form1.resources
+C:\Users\JohnB\OneDrive\Área de Trabalho\ETEC JRM\POO\Jogo Da Velha\Jogo Da Velha\obj\Debug\Jogo_Da_Velha.Properties.Resources.resources
+C:\Users\JohnB\OneDrive\Área de Trabalho\ETEC JRM\POO\Jogo Da Velha\Jogo Da Velha\obj\Debug\Jogo Da Velha.csproj.GenerateResource.cache
+C:\Users\JohnB\OneDrive\Área de Trabalho\ETEC JRM\POO\Jogo Da Velha\Jogo Da Velha\obj\Debug\Jogo Da Velha.csproj.CoreCompileInputs.cache
+C:\Users\JohnB\OneDrive\Área de Trabalho\ETEC JRM\POO\Jogo Da Velha\Jogo Da Velha\obj\Debug\Jogo Da Velha.exe
+C:\Users\JohnB\OneDrive\Área de Trabalho\ETEC JRM\POO\Jogo Da Velha\Jogo Da Velha\obj\Debug\Jogo Da Velha.pdb
